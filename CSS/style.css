@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.Header-Home-Page {
+    background-color: rgb(57, 57, 57);
+    color: white;
+    text-decoration: none;
+    text-align: left;
+}
+
+.View-Guitars-Link {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+   
+}
+
+.Guitar-On-Sale {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+}
+
+.Review-image{
+    width: 15%;
+}
+
+.Image-size{
+    width: 100%;
+}
